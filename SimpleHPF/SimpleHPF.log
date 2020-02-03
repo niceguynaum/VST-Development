@@ -1,0 +1,7 @@
+﻿  SimpleHPF.cpp
+  RackAFXDLL.cpp
+  pluginobjects.cpp
+  plugin.cpp
+  Generating Code...
+     Creating library C:\Users\NAUM\AppData\Roaming\RackAFX\PlugIns\SimpleHPF.lib and object C:\Users\NAUM\AppData\Roaming\RackAFX\PlugIns\SimpleHPF.exp
+  SimpleHPF.vcxproj -> C:\Users\NAUM\AppData\Roaming\RackAFX\PlugIns\SimpleHPF.dll
