@@ -1,7 +1,8 @@
 ﻿  SimpleHPF.cpp
-  RackAFXDLL.cpp
-  pluginobjects.cpp
-  plugin.cpp
   Generating Code...
+  Compiling...
+  RackAFXDLL.cpp
+  Generating Code...
+  LINK : program database C:\Vst Dev\SimpleHPF\SimpleHPF.pdb missing; performing full link
      Creating library C:\Users\NAUM\AppData\Roaming\RackAFX\PlugIns\SimpleHPF.lib and object C:\Users\NAUM\AppData\Roaming\RackAFX\PlugIns\SimpleHPF.exp
   SimpleHPF.vcxproj -> C:\Users\NAUM\AppData\Roaming\RackAFX\PlugIns\SimpleHPF.dll

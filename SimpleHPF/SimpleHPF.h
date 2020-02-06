@@ -118,6 +118,9 @@ public:
 	float m_f_z1_left;
 	float m_f_z1_right;
 
+	//Adding a float for cooked Volume slider
+	float m_fVolume;
+
 	// END OF USER CODE -------------------------------------------------------------- //
 
 
@@ -125,6 +128,7 @@ public:
 	//  **--0x07FD--**
 
 	float m_fSlider_a1;
+	float m_fVolumeControl;
 
 	// **--0x1A7F--**
 	// ------------------------------------------------------------------------------- //

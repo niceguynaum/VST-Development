@@ -63,7 +63,7 @@
 			<Tool
 				Name="VCLinkerTool"
 				AdditionalDependencies="Sock2VST3d.lib base_vc9d.lib .\resources\Sock2VST3.res"
-				OutputFile="C:\Users\willpirkle\AppData\Roaming\RackAFX\PlugIns\$(ProjectName).dll"
+				OutputFile="C:\Users\NAUM\AppData\Roaming\RackAFX\PlugIns\$(ProjectName).dll"
 				IgnoreAllDefaultLibraries="false"
 				IgnoreDefaultLibraryNames=""
 				ModuleDefinitionFile="vst3plug.def"
@@ -139,7 +139,7 @@
 			<Tool
 				Name="VCLinkerTool"
 				AdditionalDependencies="Sock2VST3.lib base_vc9.lib .\resources\Sock2VST3.res"
-				OutputFile="C:\Users\willpirkle\AppData\Roaming\RackAFX\PlugIns\$(ProjectName).dll"
+				OutputFile="C:\Users\NAUM\AppData\Roaming\RackAFX\PlugIns\$(ProjectName).dll"
 				IgnoreDefaultLibraryNames=""
 				ModuleDefinitionFile="vst3plug.def"
 				GenerateDebugInformation="false"
@@ -378,6 +378,9 @@
 	<Globals>
 	</Globals>
 </VisualStudioProject>
+
+
+
 
 
 
